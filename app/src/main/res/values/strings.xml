@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">TO DO</string>
+    <string name="add_fab">Add Fab Button</string>
+    <string name="search_icon">Search Icon</string>
+    <string name="sort_icon">Sort Icon</string>
+    <string name="vertical_more_icon">Vertical More Icon</string>
+    <string name="delete_all">Delete All</string>
+    <string name="sad_icon">Sad Icon</string>
+    <string name="back_icon">Back Icon</string>
+    <string name="add_task_icon">Add Task Icon</string>
+    <string name="delete_icon">Delete Icon</string>
+    <string name="update_icon">Update Icon</string>
+    <string name="drop_down_icon">Drop Down Icon</string>
+    <string name="title">Title</string>
+    <string name="description">description</string>
+    <string name="new_task">New Task</string>
+    <string name="title_cant_be_empty">Title Cant Be Empty</string>
+    <string name="description_cant_be_empty">Description Cant Be Empty</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="delete_task">Remove \'%1$s\'?</string>
+    <string name="delete_task_confirmation">Are you sure you want to remove \'%1$s\'?</string>
+    <string name="delete_all_tasks">Remove all tasks?</string>
+    <string name="delete_all_tasks_confirmation">Are you sure you want remove all tasks? There is no going back after this action.</string>
+    <string name="logo_icon">Logo</string>
+</resources>
